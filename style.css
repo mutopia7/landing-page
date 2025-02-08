@@ -1,0 +1,31 @@
+header{
+    background-color: #1F2937;
+    height: 400px;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+}
+
+.mainnav{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    padding: 10px 220px;
+}
+
+.nav-items{
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.nav-items:hover{
+border-bottom: #E5E7EB 1px solid;
+}
+
+#head-logo{
+    color: #F9FAF8;
+    font-size: 24px;
+    margin-right: auto;
+}
