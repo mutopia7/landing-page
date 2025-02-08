@@ -123,3 +123,29 @@ border-bottom: #E5E7EB 1px solid;
     text-align: center;
     margin-top: 8px;
 }
+
+
+/* quote section */
+
+.quote-sec{
+    background-color: #E5E7EB;
+    margin-top: 180px;
+}
+
+#quote-text{
+    color: #1F2937;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 36px;
+    
+    padding: 100px 380px 0px;
+}
+
+#quote-source{
+    text-align: end;
+    padding-right: 400px;
+    padding-bottom: 100px;
+    margin-top: -40px;
+    color: black;
+    font-weight: bold;
+}
