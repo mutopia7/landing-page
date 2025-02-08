@@ -149,3 +149,34 @@ border-bottom: #E5E7EB 1px solid;
     color: black;
     font-weight: bold;
 }
+
+/* sign up section */
+
+.sign-sec{
+    background-color: #2574f3;
+    margin: 100px 220px;
+    padding: 30px 150px;
+    border: #2574f3 1px solid;
+    border-radius: 8px;
+}
+
+.sign-sec h3{
+    color: #F9FAF8;
+}
+.sign-sec p{
+    color: #E5E7EB;
+    margin-top: -10px;
+}
+
+
+.sign-sec  span a{
+    color: #F9FAF8;
+    border: 1px solid #F9FAF8;
+    margin-left: 120px;
+    padding: 10px 40px;
+}
+
+.sign-sec span a:hover{
+    background-color: #F9FAF8;
+    color: #2574f3;
+}
