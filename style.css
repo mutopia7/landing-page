@@ -88,3 +88,38 @@ border-bottom: #E5E7EB 1px solid;
 }
 
 
+/* section of posts */
+.post-sec{
+    margin: 55px 300px;
+}
+
+#head-information{
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
+    text-align: center;
+}
+
+.posts{
+    display: flex;
+}
+
+.posts-items{
+    flex: 1;
+    width: 200px;
+    height: 200px;
+}
+
+.fig-image{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border: 3px #3882F6 solid;
+    border-radius: 15px;
+}
+
+.fig-cap{
+    color: gray;
+    text-align: center;
+    margin-top: 8px;
+}
