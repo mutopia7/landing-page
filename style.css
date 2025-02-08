@@ -180,3 +180,12 @@ border-bottom: #E5E7EB 1px solid;
     background-color: #F9FAF8;
     color: #2574f3;
 }
+
+/* footer */
+
+footer{
+    background-color: #1F2937;
+    color: #E5E7EB;
+    padding:10px;
+    text-align: center;
+}
